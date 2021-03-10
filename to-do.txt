@@ -1,0 +1,6 @@
+* Create 2 or 3 sample pages
+* Create Menu Named "Primary"
+* Create ACF Field 
+   -> News field
+       -> location
+       -> summary
